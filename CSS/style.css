@@ -10,3 +10,10 @@ nav li {
     list-style-type: none;
     margin-left: 15px;
 }
+
+footer {
+    display: flex; 
+    justify-content: center;
+}
+
+   
