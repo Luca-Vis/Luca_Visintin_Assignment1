@@ -2,6 +2,7 @@ nav ul {
     display: flex;
     flex-direction: row;
     justify-content: right;
+    font-size: 16px;
 }
 nav a {
     text-decoration: none;
@@ -11,9 +12,21 @@ nav li {
     margin-left: 15px;
 }
 
+.menu {
+    font-size: 20px;
+    border: 0;
+}
+.note {
+    display: flex;
+    font-size: 20px;
+    border: 0;
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-bottom: 580px;   
+}
+
 footer {
     display: flex; 
     justify-content: center;
+    margin-top: auto;
 }
-
-   
