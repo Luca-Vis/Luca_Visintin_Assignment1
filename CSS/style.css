@@ -32,6 +32,7 @@ nav a:hover {
     color: #56949f;
     font-family: 'Roboto Serif', serif;
 }
+
 .note {
     color: #56949f;
     background-color: #faf4ed;
@@ -43,10 +44,28 @@ nav a:hover {
     margin-bottom: 570px;
     font-family: 'Roboto Serif', serif; 
 }
+.notearea {
+    color: #56949f;
+    background-color: #faf4ed;
+    display: flex;
+    font-size: 30px;
+    border: 0;
+    font-family: 'Roboto Serif', serif; 
+}
+.textarea {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-bottom: 360px;
+}
+.options {
+    display: flex;
+    flex-direction: column;
+}
 button:hover {
     color: #b4637a;
 }
-
 footer {
     color: #56949f;
     display: flex; 
